@@ -1,0 +1,6 @@
+/Data-Rmap-XS-*
+/.build
+/_build*
+/Build
+MYMETA.*
+!META.json
